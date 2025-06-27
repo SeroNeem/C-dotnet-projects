@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Project 1 Hello World",
+    "\\Project 2 Simple Calculator",
+    "\\Project 3 Number Guessing Game",
+    "\\Project 4 Temprature Converter",
+    "\\Project 5 BMI Calculator",
+    "\\Project 6 Leap Year Checker",
+    "\\Project 7 Palindrome Checker",
+    "\\Project 8 Reverse a String",
+    "\\Project 9 Prime Number Finder"
   ],
-  "SelectedNode": "\\Project 1 Hello World",
+  "SelectedNode": "\\Project 2 Simple Calculator",
   "PreviewInSolutionExplorer": false
 }
